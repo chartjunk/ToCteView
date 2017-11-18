@@ -1,0 +1,4 @@
+col1Name	col2Name	anotherCol
+100	xxxx	NULL
+200	yyy	98
+300.5	zzz	qqqqqqqqqqqqqqqqq
